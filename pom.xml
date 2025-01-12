@@ -10,4 +10,5 @@
         <maven.compiler.release>23</maven.compiler.release>
         <exec.mainClass>mx.com.gm.holamundo.HolaMundo</exec.mainClass>
     </properties>
+    <name>HolaMundo2</name>
 </project>
